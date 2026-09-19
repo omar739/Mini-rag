@@ -1,0 +1,2 @@
+# Mini-rag
+Learning MLOps 

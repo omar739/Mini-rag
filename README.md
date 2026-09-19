@@ -21,3 +21,10 @@
   <img src="https://cdn.simpleicons.org/mongodb" width="50">
   <img src="https://cdn.simpleicons.org/onnx" width="50">
 </p>
+
+```python
+print("Hello World")
+```
+
+- [x] learning python
+- [ ] learning jave

@@ -1,4 +1,4 @@
-# **This is My First Project While Learning MLOps Course**
+# **This is My First Project While Learning `MLOps` Course**
 <img width="480" height="270" alt="image" src="sources/630341e16bdfc87f7cd23ee0_ezgif.com-gif-maker_(1).gif" />
 
 <p align="center">
@@ -22,9 +22,5 @@
   <img src="https://cdn.simpleicons.org/onnx" width="50">
 </p>
 
-```python
-print("Hello World")
-```
 
-- [x] learning python
-- [ ] learning jave
+
